@@ -2,7 +2,7 @@
 	{
 		"name": "Great market",
 		"uniqueTo": "Great Duchy of Republic",
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
 		"techRequired": "Guilds",
 		"uniques": [
 			"[+2 Culture, +3 Gold]",
@@ -13,6 +13,7 @@
 			"[+1 Gold] for each adjacent [Luxury resource]",
       "[+1 Gold] for each adjacent [Trading post] <with [1] to [3] neighboring [Trading post] tiles>",
       "[+2 Gold] for each adjacent [Trading post] <with [4] to [6] neighboring [Trading post] tiles>",
+			"[+1 Culture, +1 Gold] from [Great market] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>",
 			"Great Improvement", "Does not need removal of [All]",
 			"Pillaging this improvement yields approximately [+40 Gold]"]
 	},
