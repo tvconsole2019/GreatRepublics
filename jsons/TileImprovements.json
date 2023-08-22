@@ -3,6 +3,7 @@
 		"name": "Great market",
 		"uniqueTo": "Great Duchy of Republic",
 		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Guilds",
 		"uniques": [
 			"[+2 Culture, +3 Gold]",
       "Cannot be built on [Bonus resource] tiles",
