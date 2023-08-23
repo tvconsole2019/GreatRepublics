@@ -27,8 +27,8 @@
 		"afterPeace": "Very well I will stop my aggression",
 		"tradeRequest": "Do this deal good for you?",
 
-		"outerColor": [0, 0, 255],
-	        "innerColor": [255, 0, 0],
+		"outerColor": [0, 0, 204],
+	        "innerColor": [255, 51, 51],
 		
 		"uniqueName": "Merchant Cities",
 		"uniques": ["[+50]% [Gold] [in capital]", "[+1 Gold] from every [Water resource]", "[Great Merchant] is earned [25]% faster <during a Golden Age>", "[+1 Gold] from [All] tiles [in all cities] <with [1] to [6] neighboring [Great Market] tiles>",
