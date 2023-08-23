@@ -7,10 +7,12 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["Creates a [Great market] improvement on a specific tile",
-		            "[+1 Gold] for each adjacent [Luxury resource]",
+	        "uniqueText": ["[+1 Gold] for each adjacent [Luxury resource]",
+			    "Creates a [Great market] improvement on a specific tile",
                             "[+1 Gold] for each adjacent [Trading post] <with [1] to [3] neighboring [Trading post] tiles>",
                             "[+2 Gold] for each adjacent [Trading post] <with [4] to [6] neighboring [Trading post] tiles>",
+    		            "Cost increases by [5] per owned city"],
+		"uniques": ["Creates a [Great market] improvement on a specific tile",
 		            "Cost increases by [5] per owned city"],
 		"requiredTech": "Currency"
     },
@@ -26,7 +28,7 @@
 		"hurryCostModifier": 50,
 		"uniques": ["[+1 Gold] from [Water resource] tiles [in this city]",
 			"[+1 Culture] from [Trading post] tiles [in this city]",
-			"[+2 Science] from [Great Market] tiles [in this city]",
+			"[+2 Science] from [Great market] tiles [in this city]",
 			"Connects trade routes over water","Must be next to [Coast]",
 		        "Cost increases by [10] per owned city"],
 		"requiredTech": "Compass"
