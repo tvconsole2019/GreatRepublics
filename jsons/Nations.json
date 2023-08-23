@@ -9,14 +9,14 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "sorry but i need more land for myself",
+		"declaringWar": "you are nothing but a hindrance. prepare for war",
 		"attacked": "how dare you... oh well",
 		"defeated": "how embarrassing...",
-		"introduction": "Hello Friend. It appear that there people existing here",
+		"introduction": "Hello Friend. Do you wanna admire my wealth?",
 		
 		"neutralHello": "Hi",
 		"neutralLetsHearIt": ["Yeah?", "Alright lets see", "What i can help?"],
-		"neutralNo": ["Nuh uh", "Im not accepting it", "Can you give me more for this?"],
+		"neutralNo": ["No", "Im not accepting it", "Can you give me more for this?"],
 		"neutralYes": ["Alright i will accept it", "Very good trade yes?", "Hope this will help!!"],
 
 		"hateHello": "Hm? you here",
