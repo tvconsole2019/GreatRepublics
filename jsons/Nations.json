@@ -31,7 +31,7 @@
 	        "innerColor": [255, 51, 51],
 		
 		"uniqueName": "Merchant Cities",
-		"uniques": ["[+50]% [Gold] [in capital]", "[+1 Gold] from every [Water resource]", "[Great Merchant] is earned [25]% faster <during a Golden Age>", "[+1 Gold] from [All] tiles [in all cities] <with [1] to [6] neighboring [Trading Post] tiles>",
+		"uniques": ["[+50]% [Gold] [in capital]", "[+1 Gold] from every [Water resource]", "[Great Merchant] is earned [25]% faster <during a Golden Age>", "[+1 Gold] from [All] tiles [in all cities] <with [1] to [6] neighboring [Trading post] tiles>",
 		           "[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "[+100]% unhappiness from the number of cities"]
 		 
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lakes Velocity", "Hope City", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
