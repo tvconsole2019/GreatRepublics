@@ -1,21 +1,15 @@
 [
-    {
-		"name": "Great Market",
-		"replaces": "Market",
-		"uniqueTo": "Great Duchy of Republic",
-		"gold": 5,
-		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 25},
-	        "uniqueText": ["[+1 Gold] for each adjacent [Luxury resource]",
-			    "Creates a [Great market] improvement on a specific tile",
-                            "[+1 Gold] for each adjacent [Trading post] <with [1] to [3] neighboring [Trading post] tiles>",
-                            "[+2 Gold] for each adjacent [Trading post] <with [4] to [6] neighboring [Trading post] tiles>",
-    		            "Cost increases by [5] per owned city"],
-		"uniques": ["Creates a [Great market] improvement on a specific tile",
-		            "Cost increases by [5] per owned city"],
-		"requiredTech": "Currency"
-    },
+	{
+		"name": "Wersan Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
+	},
 	{
 		"name": "Trade Port",
 		"replaces": "Harbor",
