@@ -19,7 +19,9 @@
 		
 		"uniqueName": "Science Discovery",
 		"uniques": ["+1 Gold, +1 Science] from all [Science] buildings",
-		            "[Great Scientist] is earned [33]% faster"]
+		            "[Great Scientist] is earned [33]% faster", 
+			    "[-25]% Unhappiness from [Population] [in all cities]",
+		            "[+100]% unhappiness from the number of cities"]
 		 
 	        "cities": ["Wersa", "Darmo", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lawda", "Manyo", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
 	},
