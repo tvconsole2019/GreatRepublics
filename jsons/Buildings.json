@@ -1,6 +1,8 @@
 [
 	{
-		"name": "Wersan Palace",
+		"name": "Wersan Presidency Palace",
+		"replaces": "Palace",
+		"uniqueTo": "Wersa Republic",
 		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
@@ -11,20 +13,12 @@
 		"uniques": ["Indicates the capital city", "[+1 Science, +1 Culture] per [2] population [in all cities]"]
 	},
 	{
-		"name": "Trade Port",
-		"replaces": "Harbor",
-		"uniqueTo": "Great Duchy of Republic",
-		"gold": 2,
-		"culture": 1,
-		"science": 1,
-		"cost": 140,
-		"maintenance": 4,
-		"hurryCostModifier": 50,
-		"uniques": ["[+1 Gold] from [Water resource] tiles [in this city]",
-			"[+1 Culture] from [Trading post] tiles [in this city]",
-			"[+2 Science] from [Great market] tiles [in this city]",
-			"Connects trade routes over water","Must be next to [Coast]",
-		        "Cost increases by [10] per owned city"],
-		"requiredTech": "Compass"
+		"name": "University of Wersa",
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 45},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
 	},
 ]
