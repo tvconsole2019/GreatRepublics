@@ -1,40 +1,26 @@
 [
 	{
-		"name": "Great Duchy of Republic",
-		"leaderName": "Ryan V",
-		"adjective": ["Republic's"],
-		"startBias": ["Coast", "Avoid [Tundra]"],
-		"preferredVictoryType": "Diplomatic",
+		"name": "Wersa Republic",
+		"leaderName": "Yuran V",
+		"adjective": ["Wersan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "you are nothing but a hindrance. prepare for war",
-		"attacked": "how dare you... oh well",
-		"defeated": "how embarrassing...",
-		"introduction": "Hello Friend. Do you wanna admire my wealth?",
-		
-		"neutralHello": "Hi",
-		"neutralLetsHearIt": ["Yeah?", "Alright lets see", "What i can help?"],
-		"neutralNo": ["No", "Im not accepting it", "Can you give me more for this?"],
-		"neutralYes": ["Alright i will accept it", "Very good trade yes?", "Hope this will help!!"],
-
-		"hateHello": "Hm? you here",
-		"hateLetsHearIt": ["Alright what do you want", "Ok?", "You calling me for this?"],
-		"hateNo": ["No.", "No way i would accept that!!", "Pardon me?"],
-		"hateYes": ["Your luck was on your side.", "That is good enough.", "Very well..."],
-		
-		"afterPeace": "Very well I will stop my aggression",
-		"tradeRequest": "Do this deal good for you?",
+		"declaringWar": "You are nothing but a hindrance. Prepare for war!!",
+		"attacked": "You will regret it",
+		"defeated": "...",
+		"introduction": "Oh my, do you come here to discover new thing?",
 
 		"outerColor": [0, 0, 204],
 	        "innerColor": [255, 51, 51],
 		
-		"uniqueName": "Merchant Cities",
-		"uniques": ["[+50]% [Gold] [in capital]", "[+1 Gold] from every [Water resource]", "[Great Merchant] is earned [25]% faster <during a Golden Age>", "[+1 Gold] from [All] tiles [in all cities] <with [1] to [6] neighboring [Trading post] tiles>",
-		           "[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "[+100]% unhappiness from the number of cities"]
+		"uniqueName": "Science Discovery",
+		"uniques": []
 		 
-	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lakes Velocity", "Hope City", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
+	        "cities": ["Wersa", "Darmo", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lawda", "Manyo", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
 	},
 ]
 
