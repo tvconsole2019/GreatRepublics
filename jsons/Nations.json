@@ -18,7 +18,8 @@
 	        "innerColor": [255, 51, 51],
 		
 		"uniqueName": "Science Discovery",
-		"uniques": []
+		"uniques": [ "+1 Gold, +1 Science] from all [Science] buildings"
+                           , ]
 		 
 	        "cities": ["Wersa", "Darmo", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lawda", "Manyo", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
 	},
