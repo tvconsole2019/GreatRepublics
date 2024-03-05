@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Wersan Presidency Palace",
+		"name": "Wersan Presidency",
 		"replaces": "Palace",
 		"uniqueTo": "Wersa Republic",
 		"isNationalWonder": true,
@@ -14,11 +14,13 @@
 	},
 	{
 		"name": "University of Wersa",
+		"replaces": "Palace",
+		"uniqueTo": "Wersa Republic",
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 45},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "Cost increases by [50] per owned city"],
 		"requiredTech": "Education"
 	},
 ]
