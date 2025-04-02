@@ -13,10 +13,13 @@
 		"attacked": "You will regret it",
 		"defeated": "...",
 		"introduction": "Oh my, do you come here to discover new thing?",
+		"neutralHello": "Hello",
+		"hateHello": "...",
 
 		"outerColor": [0, 0, 204],
 	        "innerColor": [255, 51, 51],
-		
+
+		"favoredReligion": "Islam",
 		"uniqueName": "Science Discovery",
 		"uniques": ["+1 Gold, +1 Science] from all [Science] buildings",
 		            "[Great Scientist] is earned [33]% faster", 
