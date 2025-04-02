@@ -38,4 +38,29 @@
 				      }
 		                   ]
 	},
+	{
+		"name": "Tether's Bank",
+		"replaces": "Bank",
+		"uniqueTo": "
+		"gold": 1,
+		"specialistSlots": {"Merchant": 3},
+		"hurryCostModifier": 20,
+		"percentStatBonus": {"gold": 15},
+		"requiredBuilding": "Market",
+		"uniques": ["[+1 Happiness] per every [150] [Gold]"],
+		"requiredTech": "Banking"
+	},
+	{
+		"name": "Alpha Factory",
+		"replaces": "Factory",
+		"cost": 360,
+		"production": 4,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
+	},
 ]
