@@ -86,7 +86,8 @@
 		"favoredReligion": "Taoism",
 		"uniqueName": "Fools Gold",
 		"uniques": ["[+1 Gold] per every [5] [Gold]",
-		            "[-1 Happiness] per every [100] [Gold]",]
+		            "[-1 Happiness] per every [100] [Gold]",
+		            "Nullifies [Gold] [in all cities] <when below [-9] Happiness>"]
 		 
 	        "cities": ["Wersa", 
 			   "Darmo", 
