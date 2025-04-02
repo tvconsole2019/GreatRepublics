@@ -80,10 +80,10 @@
 		"neutralHello": "Hello",
 		"hateHello": "...",
 
-		"outerColor": [0, 0, 204],
+		"outerColor": [249, 214, 249],
 	        "innerColor": [255, 51, 51],
 
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Taoism",
 		"uniqueName": "Science Discovery",
 		"uniques": ["+1 Gold, +1 Science] from all [Science] buildings",
 		            "[Great Scientist] is earned [33]% faster", 
