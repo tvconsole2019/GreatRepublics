@@ -19,6 +19,7 @@
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 45},
 		"specialistSlots": {"Scientist": 2},
+		"maintenance": 4,
 		"requiredBuilding": "Library",
 		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "Cost increases by [50] per owned city"],
 		"requiredTech": "Education"
