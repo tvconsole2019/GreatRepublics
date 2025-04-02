@@ -22,7 +22,7 @@
 
 		"favoredReligion": "Islam",
 		"uniqueName": "Science Discovery",
-		"uniques": ["+1 Gold, +1 Science] from all [Science] buildings",
+		"uniques": ["[+1 Gold, +2 Science] from all [Science] buildings",
 		            "[Great Scientist] is earned [33]% faster", 
 			    "[-25]% Unhappiness from [Population] [in all cities]",
 		            "[+100]% unhappiness from the number of cities"]
