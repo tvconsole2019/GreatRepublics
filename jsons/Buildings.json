@@ -41,26 +41,40 @@
 	{
 		"name": "Tether's Bank",
 		"replaces": "Bank",
-		"uniqueTo": "
+		"uniqueTo": "Tether Corporation",
 		"gold": 1,
 		"specialistSlots": {"Merchant": 3},
 		"hurryCostModifier": 20,
 		"percentStatBonus": {"gold": 15},
 		"requiredBuilding": "Market",
-		"uniques": ["[+1 Happiness] per every [150] [Gold]"],
+		"uniques": ["[+1 Happiness] per every [150] [Gold]",
+		            "Cost increases by [15] per owned city"],
 		"requiredTech": "Banking"
+		"civilopediaText": [
+			              {
+				      "text": "Bank that definitely do what every bank do. Just dont see what they doing in the back."
+				      }
+		]
 	},
 	{
 		"name": "Alpha Factory",
+		"uniqueTo": "Tether Corporation",
 		"replaces": "Factory",
-		"cost": 360,
-		"production": 4,
-		"percentStatBonus": {"production": 10},
-		"specialistSlots": {"Engineer": 2},
+		"cost": 450,
+		"production": 6,
+		"percentStatBonus": {"production": 15},
+		"specialistSlots": {"Engineer": 4},
 		"requiredBuilding": "Workshop",
-		"maintenance": 3,
+		"maintenance": 6,
 		"hurryCostModifier": 0,
-		"requiredResource": "Coal",
+		"uniques": ["[+1 Production] per every [50] [Gold]",
+		            "[+1 Culture] per every [50] [Gold]",
+		            "Cost increases by [50] per owned city"],
 		"requiredTech": "Industrialization"
+		"civilopediaText": [
+			              {
+				      "text": "Most advanced factory at its times."
+				      }
+		                   ]
 	},
 ]
