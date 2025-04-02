@@ -14,7 +14,7 @@
 	},
 	{
 		"name": "University of Wersa",
-		"replaces": "Palace",
+		"replaces": "University",
 		"uniqueTo": "Wersa Republic",
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 45},
