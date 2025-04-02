@@ -10,7 +10,8 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city", "[+1 Science, +1 Culture] per [2] population [in all cities]"],
+		"uniques": ["Indicates the capital city", 
+			    "[+1 Science, +1 Culture] per [2] population [in all cities]"],
                 "civilopediaText": [
 			              {
 				      "text": "Everything start here, Mr president. Our most priced building in our country, Lets get started shall we?."
@@ -30,6 +31,11 @@
 		"maintenance": 4,
 		"requiredBuilding": "Library",
 		"uniques": ["Cost increases by [50] per owned city"],
-		"requiredTech": "Education"
+		"requiredTech": "Education",
+                "civilopediaText": [
+			              {
+				      "text": "Education is priority for every Wersan people, A place where technology shall prosper our nation"
+				      }
+		                   ]
 	},
 ]
