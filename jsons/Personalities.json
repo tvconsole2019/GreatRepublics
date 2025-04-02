@@ -1,5 +1,5 @@
 [
-	{
+      {
       "name": "Wersa",
       "culture": 5,
       "faith": 5,
@@ -16,5 +16,24 @@
       "diplomacy": 6,
       "loyal": 8,
       "expansion": 2,
+      }
+	
+      {
+      "name": "Tether",
+      "culture": 5,
+      "faith": 2,
+      "food": 4,
+      "gold": 9,
+      "happiness": 7,
+      "production": 5,
+      "science": 5,
+		
+      "military": 5,
+      "aggressive": 5,
+      "declareWar": 6,
+      "commerce": 9,
+      "diplomacy": 7,
+      "loyal": 2,
+      "expansion": 6,
       }
 ]
