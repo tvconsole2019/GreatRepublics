@@ -81,10 +81,10 @@
 		"hateHello": "...",
 
 		"outerColor": [249, 214, 249],
-	        "innerColor": [255, 51, 51],
+	        "innerColor": [206, 192, 190],
 
 		"favoredReligion": "Taoism",
-		"uniqueName": "Science Discovery",
+		"uniqueName": "Fools Gold",
 		"uniques": ["+1 Gold, +1 Science] from all [Science] buildings",
 		            "[Great Scientist] is earned [33]% faster", 
 			    "[-25]% Unhappiness from [Population] [in all cities]",
