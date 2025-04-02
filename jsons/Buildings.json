@@ -18,10 +18,10 @@
 		"uniqueTo": "Wersa Republic",
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 45},
-		"specialistSlots": {"Scientist": 2},
+		"specialistSlots": {"Scientist": 4},
 		"maintenance": 4,
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "Cost increases by [50] per owned city"],
+		"uniques": ["Cost increases by [50] per owned city"],
 		"requiredTech": "Education"
 	},
 ]
