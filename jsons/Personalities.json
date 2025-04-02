@@ -1,0 +1,21 @@
+[
+	{
+      "name": "Wersa",
+      // Stats focused personalities
+      "culture": 5,
+      "faith": 5,
+      "food": 5,
+      "gold": 5,
+      "happiness": 5,
+      "production": 5,
+      "science": 7,
+      // Behaviour focused personalities
+      "military": 3,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 5,
+      "diplomacy": 5,
+      "loyal": 5,
+      "expansion": 5,
+      }
+]
