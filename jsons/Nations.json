@@ -85,7 +85,7 @@
 
 		"favoredReligion": "Taoism",
 		"uniqueName": "Fools Gold",
-		"uniques": ["[+1 Gold] per every [5] [Gold]",
+		"uniques": ["[+1 Gold] per every [10] [Gold]",
 		            "[-1 Happiness] per every [100] [Gold]",
 		            "Nullifies [Gold] [in all cities] <when below [-9] Happiness>",
 		            "[Gold] cost of purchasing items in cities [+25]%"]
