@@ -23,7 +23,34 @@
 			    "[-25]% Unhappiness from [Population] [in all cities]",
 		            "[+100]% unhappiness from the number of cities"]
 		 
-	        "cities": ["Wersa", "Darmo", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lawda", "Manyo", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
+	        "cities": ["Wersa", 
+			   "Darmo", 
+			   "Frano", 
+			   "Mirpo", 
+			   "Qures", 
+			   "Kali", 
+			   "Cater", 
+			   "Lomangan", 
+			   "Iodan", 
+			   "Prutor", 
+			   "Youna", 
+			   "Zaroone", 
+			   "Tenyu", 
+			   "Kirluna",
+			   "Wesdan",
+			   "Porluna",
+			   "Gunada",
+			   "Lawda", 
+			   "Manyo", 
+			   "Xenino",
+			   "Brunai",
+			   "Jarna",
+			   "Uwataran", 
+                           "Kanamavin"],
+                "spyNames": ["Rim-Sin II", 
+                             "Smerdis",
+                             "Ilum-ma-ili","
+
 	},
 ]
 
