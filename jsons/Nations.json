@@ -21,7 +21,7 @@
 	        "innerColor": [255, 51, 51],
 
 		"favoredReligion": "Islam",
-		"uniqueName": "Science Discovery",
+		"uniqueName": "Scientific Discoveries",
 		"uniques": ["[+1 Gold, +2 Science] from all [Science] buildings",
 		            "[Great Scientist] is earned [33]% faster", 
 			    "[-25]% Unhappiness from [Population] [in all cities]",
