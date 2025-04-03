@@ -88,7 +88,7 @@
 		"uniques": ["[+1 Gold] per every [10] [Gold]",
 		            "[-1 Happiness] per every [100] [Gold]",
 		            "Nullifies [Gold] [in all cities] <when below [-9] Happiness>",
-		            "[Gold] cost of purchasing items in cities [+25]%"]
+		            "[Gold] cost of purchasing items in cities [+25]%"],
 		 
 	        "cities": ["The Capital", 
 			   "Dolarin", 
@@ -150,8 +150,8 @@
 		"uniqueName": "Fuel of War",
 		"uniques": ["[+20]% [Production] <when at war>",
 		            "[-3 Happiness] [in all cities] <when not at war>", 
-			    "[-25]% Unhappiness from [Population] [in all cities]",
-		            "[+100]% unhappiness from the number of cities"]
+			    "Cannot build [Ranged] units"",
+		            "All newly-trained [Melee] units [in all cities] receive the [Powered by War] promotion"],
 		 
 	        "cities": ["Wersa", 
 			   "Darmo", 
